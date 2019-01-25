@@ -1,1 +1,5 @@
-# music1
+PROJET CELESTIA
+
+BOT MUSIQUE construit sous discord.js 
+
+
